@@ -105,9 +105,6 @@ function renderWelcome() {
       </div>
 
       <button type="submit" class="btn">Continuar</button>
-      <div style="margin-top: 1rem; text-align: center;">
-        <a href="#/admin" style="color: var(--text-muted); font-size: 0.9rem;">Acesso Admin</a>
-      </div>
     </form>
   `;
 
